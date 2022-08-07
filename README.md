@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Fatimah Tasneem Samiha
 #### Student-Programmer-Coder
-![Student-Programmer-Coder]([https://github.com/FatimahTasneemSamiha/FatimahTasneemSamiha/blob/main/images%20(5).jpeg](https://github.com/FatimahTasneemSamiha/FatimahTasneemSamiha/blob/main/WhatsApp%20Image%202022-08-07%20at%203.00.25%20PM.jpeg))
+![Student-Programmer-Coder](https://github.com/FatimahTasneemSamiha/FatimahTasneemSamiha/blob/main/WhatsApp%20Image%202022-08-07%20at%203.00.25%20PM.jpeg)
 
 I'm pursuing my BSc in Electronics and Electrical Engineering at Leading University, Sylhet. I love to learn new things. Programming is my hobby.
 
